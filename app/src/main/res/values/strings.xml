@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Libraries-Lesson3-RxJava</string>
+    <string name="button_convert_to_png">Преобразовать в PNG</string>
 </resources>
